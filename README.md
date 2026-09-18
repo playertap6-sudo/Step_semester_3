@@ -1,10 +1,9 @@
 ## Date: 18-09-2026
 **Today's Work:**
-- Set up develop branch with empty project skeleton
-- Created feature/session_1 with Week 1 assignments (array/string basics — 5 problems)
+- Created feature/session_2 with Week 2 assignments (string manipulation — 5 problems)
 
 **Next Session Plan:**
-- Week 2 assignments (strings — split, StringBuilder, CSV parsing)
+- Week 4 assignments (arrays — even before we skip to week 3, note you don't have week 3 problems yet)
 
 **Issues Faced:**
 - None
