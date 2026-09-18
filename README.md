@@ -1,9 +1,9 @@
 ## Date: 18-09-2026
 **Today's Work:**
-- Created feature/session_4 with Week 5 assignments (fantasy sports — arrays and methods, 6 files)
+- Created feature/session_5 with Week 6 assignments (classes and objects — 5 files)
 
 **Next Session Plan:**
-- Week 6 assignments (classes and objects)
+- Await new topic from mentor
 
 **Issues Faced:**
 - None
