@@ -1,9 +1,9 @@
 ## Date: 18-09-2026
 **Today's Work:**
-- Created feature/session_3 with Week 4 assignments (array algorithms — 5 problems)
+- Created feature/session_4 with Week 5 assignments (fantasy sports — arrays and methods, 6 files)
 
 **Next Session Plan:**
-- Week 5 assignments (arrays and methods)
+- Week 6 assignments (classes and objects)
 
 **Issues Faced:**
 - None
