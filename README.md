@@ -1,9 +1,9 @@
-## Date: 18-09-2026
+## Date: 02-10-2026
 **Today's Work:**
-- Created feature/session_5 with Week 6 assignments (classes and objects — 5 files)
+- Created feature/session_5 with Week 7 assignments (encapsulation: Character, Playlist, PasswordChecker, TrafficLight, Cart) and practice problems (PiggyBank, Scorecard, NameTag, Locker, AttendanceSheet)
 
 **Next Session Plan:**
-- Await new topic from mentor
+- Week 8 assignments
 
 **Issues Faced:**
 - None
